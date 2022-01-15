@@ -1,0 +1,17 @@
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\bin\Debug\Store.exe.config
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\bin\Debug\Store.exe
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\bin\Debug\Store.pdb
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\bin\Debug\itextsharp.dll
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\bin\Debug\itextsharp.xml
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.Form1.resources
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.Properties.Resources.resources
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.Statistical.resources
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.Store.resources
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.csproj.CopyComplete
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.exe
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.pdb
+C:\Users\hieu4\OneDrive\Desktop\Project\New folder (2)\Store\Store\obj\Debug\Store.Edit.resources
